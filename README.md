@@ -11,36 +11,6 @@ The roadmap is divided into 4 levels:
 3. **🔵 Advanced Level**  
 4. **🔴 Expert Level**
 
-## 📈 Excel Learning Flowchart
-
-```mermaid
-graph TD;
-    A[🟢 Beginner Level] --> B[✔️ Excel Interface & Basics]
-    A --> C[✔️ Basic Functions: SUM, AVERAGE, COUNT]
-    A --> D[✔️ Sorting & Filtering Data]
-    A --> E[✔️ Basic Charts & Formatting]
-    A --> F[✔️ Keyboard Shortcuts]
-    
-    B & C & D & E & F --> G[🟡 Intermediate Level]
-    G --> H[✔️ Logical Functions: IF, AND, OR]
-    G --> I[✔️ Lookup Functions: VLOOKUP, INDEX-MATCH]
-    G --> J[✔️ Conditional Formatting & Data Validation]
-    G --> K[✔️ PivotTables & PivotCharts]
-    G --> L[✔️ Text Functions & Data Cleaning]
-
-    H & I & J & K & L --> M[🔵 Advanced Level]
-    M --> N[✔️ Advanced Lookup & Logical Functions]
-    M --> O[✔️ Power Query & Data Transformation]
-    M --> P[✔️ Power Pivot & Data Models]
-    M --> Q[✔️ Dynamic Arrays: FILTER, SORT, UNIQUE]
-    M --> R[✔️ Advanced Data Analysis: SUMPRODUCT, GETPIVOTDATA]
-    
-    N & O & P & Q & R --> S[🔴 Expert Level]
-    S --> T[✔️ VBA & Macros for Automation]
-    S --> U[✔️ Power BI Integration]
-    S --> V[✔️ SQL for Excel]
-    S --> W[✔️ Advanced Financial Modeling]
-```mermaid
 
 ## 🟢 Beginner Level
 
@@ -153,3 +123,34 @@ This repository is licensed under the [MIT License](LICENSE).
 ---
 
 **Happy learning, and may your Excel skills skyrocket!** 🚀
+
+
+## 📈 Excel Learning Flowchart
+
+```mermaid
+graph TD;
+    A[🟢 Beginner Level] --> B[✔️ Excel Interface & Basics]
+    A --> C[✔️ Basic Functions: SUM, AVERAGE, COUNT]
+    A --> D[✔️ Sorting & Filtering Data]
+    A --> E[✔️ Basic Charts & Formatting]
+    A --> F[✔️ Keyboard Shortcuts]
+    
+    B & C & D & E & F --> G[🟡 Intermediate Level]
+    G --> H[✔️ Logical Functions: IF, AND, OR]
+    G --> I[✔️ Lookup Functions: VLOOKUP, INDEX-MATCH]
+    G --> J[✔️ Conditional Formatting & Data Validation]
+    G --> K[✔️ PivotTables & PivotCharts]
+    G --> L[✔️ Text Functions & Data Cleaning]
+
+    H & I & J & K & L --> M[🔵 Advanced Level]
+    M --> N[✔️ Advanced Lookup & Logical Functions]
+    M --> O[✔️ Power Query & Data Transformation]
+    M --> P[✔️ Power Pivot & Data Models]
+    M --> Q[✔️ Dynamic Arrays: FILTER, SORT, UNIQUE]
+    M --> R[✔️ Advanced Data Analysis: SUMPRODUCT, GETPIVOTDATA]
+    
+    N & O & P & Q & R --> S[🔴 Expert Level]
+    S --> T[✔️ VBA & Macros for Automation]
+    S --> U[✔️ Power BI Integration]
+    S --> V[✔️ SQL for Excel]
+    S --> W[✔️ Advanced Financial Modeling]

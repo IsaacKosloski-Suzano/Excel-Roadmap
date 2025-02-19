@@ -116,12 +116,6 @@ To contribute:
 
 ---
 
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
 **Happy learning, and may your Excel skills skyrocket!** 🚀
 
 

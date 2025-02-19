@@ -40,6 +40,8 @@ graph TD;
     S --> U[✔️ Power BI Integration]
     S --> V[✔️ SQL for Excel]
     S --> W[✔️ Advanced Financial Modeling]
+```mermaid
+
 ## 🟢 Beginner Level
 
 - **Excel Interface & Basics**  

@@ -20,7 +20,7 @@ The roadmap is divided into 4 levels:
 
 - **Basic Functions**  
   Learn how to use essential functions such as `SUM`, `AVERAGE`, `COUNT`, `MIN`, and `MAX`.  
-  [Excel Functions](https://support.microsoft.com/en-us/office/financial-functions-reference-8f017586-7e7c-4660-bd76-b27ea5b5ed92)
+  [Excel Functions]([https://support.microsoft.com/en-us/office/financial-functions-reference-8f017586-7e7c-4660-bd76-b27ea5b5ed92](https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173))
 
 - **Sorting & Filtering Data**  
   Understand how to sort and filter data within a spreadsheet to make analysis easier.  
